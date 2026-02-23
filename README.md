@@ -3,9 +3,9 @@
 
 ---
 
-![GNC Simulink Model](gnc.png)
-![Uploading image.png…]()
-
+<p align="center">
+  <img src="gnc%20Power%20.png" alt="" width="800">
+</p>
 ---
 
 ## Overview
