@@ -4,6 +4,7 @@
 ---
 
 ![GNC Simulink Model](gnc.png)
+![Uploading image.png…]()
 
 ---
 
