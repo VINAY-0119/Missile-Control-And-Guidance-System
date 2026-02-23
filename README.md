@@ -3,7 +3,7 @@
 
 ---
 
-![GNC Simulink Model](gnc_model.png)
+![GNC Simulink Model](gnc.png)
 
 ---
 
